@@ -3,9 +3,6 @@
 ### ![AWS Course](AWS_Course.png)
 
 
-### [**Watch the Complete Playlist**](https://youtube.com/playlist?list=PLOa-edppsqFn4MFr5KDqm0Y92d2nGyGgQ&si=srktTEibogJ-QDub)
-
-
 ## 🌟 Introduction
 Welcome to the **AWS Cloud From Scratch** repository! This repo is your go-to resource for building a solid foundation in Amazon Web Services (AWS). Whether you're just starting out or looking to sharpen your skills, you'll find everything you need here to get hands-on with the most crucial AWS services, particularly for a career in DevOps.
 
